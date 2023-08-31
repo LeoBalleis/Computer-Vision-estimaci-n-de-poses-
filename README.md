@@ -1,9 +1,9 @@
 # <h1 align=center> **COMPUTER VISION** </h1>
 
 <p align="center">
-<video src=".\bisep01-3.mp4"   
->
-</p>
+https://github.com/LeoBalleis/Computer-Vision-estimaci-n-de-poses-/assets/104478440/31579f6a-90be-4a3f-a15a-3ed14cfe13bf
+
+
 
 
 ## Introducción:
