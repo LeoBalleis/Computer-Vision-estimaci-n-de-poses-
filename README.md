@@ -1,8 +1,8 @@
 # <h1 align=center> **COMPUTER VISION** </h1>
 
 <p align="center">
-https://github.com/LeoBalleis/Computer-Vision-estimaci-n-de-poses-/assets/104478440/31579f6a-90be-4a3f-a15a-3ed14cfe13bf
-
+<video src="https://github.com/LeoBalleis/Computer-Vision-estimaci-n-de-poses-/assets/104478440/31579f6a-90be-4a3f-a15a-3ed14cfe13bf"   
+>
 
 
 
